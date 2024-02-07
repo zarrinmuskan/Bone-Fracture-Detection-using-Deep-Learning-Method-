@@ -1,3 +1,5 @@
+# Bone Fracture Detection using Deep Learning Method
+This repository contains code for detecting bone fractures using deep-learning techniques.
 # Overview
 Bone fracture detection is crucial for medical diagnosis and treatment planning. This project focuses on developing a deep learning model to automatically detect fractures in medical images such as X-rays.
 # Dataset
